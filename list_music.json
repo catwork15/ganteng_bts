@@ -1,0 +1,67 @@
+{
+    "response": 200,
+    "status": "ok",
+    "title": "Music",
+    "data": [
+        {
+            "id": 0,
+            "judul": "Boomerang",
+            "deskripsi": "test sing",
+            "url": "https://raw.githubusercontent.com/catwork15/ganteng_1/master/music/0.mp3"
+        },
+		{
+            "id": 1,
+            "judul": "Only Getting Better",
+            "deskripsi": "test sing",
+            "url": "https://raw.githubusercontent.com/catwork15/ganteng_1/master/music/1.mp3"
+        },
+		{
+            "id": 2,
+            "judul": "Kid in a Candy Store",
+            "deskripsi": "test sing",
+            "url": "https://raw.githubusercontent.com/catwork15/ganteng_1/master/music/2.mp3"
+        },
+		{
+            "id": 3,
+            "judul": "Every Girl's a Super Girl",
+            "deskripsi": "test sing",
+            "url": "https://raw.githubusercontent.com/catwork15/ganteng_1/master/music/3.mp3"
+        },
+		{
+            "id": 4,
+            "judul": "I Can Make You Dance",
+            "deskripsi": "test sing",
+            "url": "https://raw.githubusercontent.com/catwork15/ganteng_1/master/music/4.mp3"
+        },
+		{
+            "id": 5,
+            "judul": "High Top Shoes",
+            "deskripsi": "test sing",
+            "url": "https://raw.githubusercontent.com/catwork15/ganteng_1/master/music/5.mp3"
+        },
+		{
+            "id": 6,
+            "judul": "Hold the Drama",
+            "deskripsi": "test sing",
+            "url": "https://raw.githubusercontent.com/catwork15/ganteng_1/master/music/6.mp3"
+        },
+		{
+            "id": 7,
+            "judul": "BOP!",
+            "deskripsi": "test sing",
+            "url": "https://raw.githubusercontent.com/catwork15/ganteng_1/master/music/7.mp3"
+        },
+		{
+            "id": 8,
+            "judul": "D.R.E.A.M.",
+            "deskripsi": "test sing",
+            "url": "https://raw.githubusercontent.com/catwork15/ganteng_1/master/music/8.mp3"
+        },
+		{
+            "id": 9,
+            "judul": "My Story",
+            "deskripsi": "test sing",
+            "url": "https://raw.githubusercontent.com/catwork15/ganteng_1/master/music/9.mp3"
+        }
+    ]
+}

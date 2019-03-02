@@ -1,0 +1,44 @@
+{
+    "response": 200,
+    "status": "ok",
+    "title": "Card",
+    "data": [
+        {
+            "id"    :"0",
+            "name"  : "JoJo Siwa - All Great Music",
+            "image" : "https://raw.githubusercontent.com/catwork15/ganteng_1/master/photo/template-jojo1.jpg",
+            "type"  : "list",
+            "url"   : "https://raw.githubusercontent.com/catwork15/ganteng_1/master/video/1.mp4"
+          },
+        
+        {   
+            "id"    :"1",
+            "name"  : "Boomerang ",
+            "image" : "https://raw.githubusercontent.com/catwork15/ganteng_1/master/photo/template-jojo2.jpg",
+            "type"  : "video",
+            "url"   : "https://raw.githubusercontent.com/catwork15/ganteng_1/master/video/1.mp4"
+        },
+		{   
+            "id"    :"2",
+            "name"  : "Only Getting Better",
+            "image" : "https://raw.githubusercontent.com/catwork15/ganteng_1/master/photo/template-jojo3.jpg",
+            "type"  : "video",
+            "url"   : "https://raw.githubusercontent.com/catwork15/ganteng_1/master/video/2.mp4"
+        },
+		{   
+            "id"    :"3",
+            "name"  : "Everyday Popstars",
+            "image" : "https://raw.githubusercontent.com/catwork15/ganteng_1/master/photo/template-jojo4.jpg",
+            "type"  : "video",
+            "url"   : "https://raw.githubusercontent.com/catwork15/ganteng_1/master/video/3.mp4"
+        },
+		{   
+            "id"    :"4",
+            "name"  : "Kid in a Candy Store",
+            "image" : "https://raw.githubusercontent.com/catwork15/ganteng_1/master/photo/template-jojo5.jpg",
+            "type"  : "video",
+            "url"   : "https://raw.githubusercontent.com/catwork15/ganteng_1/master/video/4.mp4"
+        }
+        
+    ]
+}
